@@ -33,10 +33,6 @@ Para começar com o curso, você pode clonar este repositório em sua máquina l
 
 Sinta-se à vontade para explorar os exemplos de código, completar as tarefas e consultar os recursos fornecidos.
 
-## Contribuições
-
-Contribuições para este repositório são bem-vindas! Se você tiver melhorias, sugestões ou correções de bugs, sinta-se à vontade para enviar uma pull request. Por favor, revise as diretrizes em `contributing.md` antes de fazer qualquer contribuição.
-
 ## Agradecimentos
 
 Agradecimentos especiais ao [Instituto XYZ](https://www.xyzinstitute.com) por fornecer o conteúdo e inspiração para este curso.
