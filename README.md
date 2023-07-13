@@ -40,5 +40,3 @@ Agradecimentos especiais ao [Instituto XYZ](https://www.xyzinstitute.com) por fo
 ## Contato
 
 Se você tiver alguma dúvida ou feedback sobre o curso ou este repositório, sinta-se à vontade para entrar em contato conosco pelo e-mail [nickdebian@outlook.com].
-
-Esperamos que você aproveite o curso e o encontre valioso em sua jornada para dominar o HTML e CSS!
